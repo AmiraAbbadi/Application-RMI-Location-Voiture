@@ -1,2 +1,2 @@
-# locationvoiture
+Le projet vise à développer une application distribuée permettant de gérer la location de voitures en utilisant Java RMI pour la communication entre un serveur central et plusieurs clients distants. Ce système permet aux utilisateurs d’effectuer des opérations comme la consultation des véhicules disponibles, la réservation de voitures et la gestion des données à distance via des appels de méthodes distants.
  
